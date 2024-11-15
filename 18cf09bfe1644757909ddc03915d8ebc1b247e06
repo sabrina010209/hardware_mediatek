@@ -52,6 +52,24 @@
       "parentUuid": "d82ade7e_3268cff8",
       "revId": "18cf09bfe1644757909ddc03915d8ebc1b247e06",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "e14bc995_213b7526",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 32253
+      },
+      "writtenOn": "2024-11-15T08:35:12Z",
+      "side": 1,
+      "message": "That shows nothing about the \"being related to each other\" ?",
+      "parentUuid": "16a845f3_de8c8ebc",
+      "revId": "18cf09bfe1644757909ddc03915d8ebc1b247e06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
