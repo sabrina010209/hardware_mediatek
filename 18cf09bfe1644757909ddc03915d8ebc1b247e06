@@ -16,6 +16,24 @@
       "message": "See 404778",
       "revId": "18cf09bfe1644757909ddc03915d8ebc1b247e06",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "d82ade7e_3268cff8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 33707
+      },
+      "writtenOn": "2024-11-15T01:34:03Z",
+      "side": 1,
+      "message": "Unlike that, this change is for `wifi_legacy_headers` not for `wifi_legacy` as a shared lib",
+      "parentUuid": "c717d342_cca9cd53",
+      "revId": "18cf09bfe1644757909ddc03915d8ebc1b247e06",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
